@@ -1,0 +1,70 @@
+.main_avatar {
+    position: absolute;
+    left: 45%;
+    top: 3rem;
+}
+
+.desc {
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: 46%;
+    top: 15rem;
+
+}
+
+a, a:link, a:visited
+ {
+   text-decoration:none;
+   color: #2a69ac;
+   }
+
+#intro {
+    font-size: 1rem;
+    font-family: sans-serif;
+    position: absolute;
+    left: 47%;
+    top: 35%;
+}
+
+.intro_header {
+    font-size: 2rem;
+    position: absolute;
+    left: 40%;
+    top: 10rem;
+}
+
+.intro_desc {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: 40%;
+    top: 15rem;
+}
+
+#intro_date {
+    font-family: sans-serif;
+    color: gray;
+    font-size: 0.8rem;
+    position: absolute;
+    left: 47%;
+    top: 38%;
+}
+
+.intro_avatar {
+    position: absolute;
+    top: 0.5rem;
+    left: 45%;
+}
+
+.git-button {
+    position: absolute;
+    left: 96%;
+    top: 95%;
+}
+
+.intro_back {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: 40%;
+    top: 25rem;    
+}
